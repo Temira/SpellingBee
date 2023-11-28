@@ -1,36 +1,38 @@
-#I hereby certify that this program is solely the result of my own work and is 
-#in compliance with the Academic Integrity policy of the course syllabus and the 
-#academic integrity policy of the CS department. 
-#(Electronically signed: Temira Koenig (12/27/2021))
-
+#imports
 import Draw
 import random
 import math
 
 #variables I will use and never modify:
+
 #coordinates of the textbox where user guesses
 guessboxX = 590 
 guessboxY = 250
 guessboxWidth = 400
 guessboxHeight = 60
+
 #coordinates of scoreboard
 scoreboardX = 500
 scoreboardY = 10
 scoreboardWidth = 200
 scoreboardHeight = 60
+
 #coordinates of error messages
 errorX = 540
 errorY = 180
+
 #enter button coords
 enterX = 710
 enterY = 360
 enterWidth = 100
 enterHeight = 60
+
 #undo button coords
 undoX = 930
 undoY = 315
 undoWidth = 50
 undoHeight = 25
+
 #new game coords
 newgameX = 10
 newgameY = 10
