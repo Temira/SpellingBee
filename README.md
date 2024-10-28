@@ -1,7 +1,3 @@
-Here’s the complete and updated README for the NYT Spelling Bee Helper Game, including the new file structure:
-
----
-
 # 🐝 NYT Spelling Bee Helper Game
 
 ## 📚 Table of Contents
